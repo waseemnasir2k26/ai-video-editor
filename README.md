@@ -72,3 +72,31 @@ CLEAN     = "eq=brightness=0.05:contrast=1.08:saturation=0.95,colorbalance=rs=0.
 **Waseem Nasir** - [skynetjoe.com](https://skynetjoe.com) | [waseemnasir.com](https://waseemnasir.com)
 
 Built with Claude Code by Anthropic.
+
+---
+
+<!-- SEO-HIRE-ME-BLOCK -->
+
+## Hire Me
+
+> **Need automated video editing for reels, shorts, or YouTube?**
+
+I'm **Waseem Nasir** — founder of [Skynet Labs / SkynetJoe](https://www.skynetjoe.com), an AI Automation Agency. Multi-version AI video editing pipelines with Claude Code + FFmpeg + pycaps.
+
+**50+ live projects across:** Healthcare · Legal · Real Estate · E-Commerce · Logistics · HVAC · SaaS · Consulting
+
+### Hire me
+- 📅 **[Book a free strategy call](https://calendly.com/skynetlabs/schedule-a-free-consultation)**
+- 💼 **[Hire on Fiverr](https://fiverr.com/agencies/skynetjoellc)**
+- 🌐 **[skynetjoe.com](https://www.skynetjoe.com)**
+- 📧 **info@skynetjoe.com**
+- 💬 **[WhatsApp](https://wa.me/923001001957)**
+
+### Related projects on my GitHub
+- [ai-motivational-posts](https://github.com/waseemnasir2k26/ai-motivational-posts)
+- [fiverr-gig-optimizer](https://github.com/waseemnasir2k26/fiverr-gig-optimizer)
+- [aeo-content-engine](https://github.com/waseemnasir2k26/aeo-content-engine)
+- [→ See all 50+ projects](https://github.com/waseemnasir2k26)
+
+### Tags
+`AI automation` · `n8n` · `GoHighLevel` · `Claude Code` · `Next.js` · `React` · `Python` · `freelance` · `hire me` · `agency`
