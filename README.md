@@ -4,6 +4,10 @@ Professional multi-version video editing pipeline powered by **Claude Code + FFm
 
 Turn raw footage into multiple professional edits using nothing but AI prompts.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 ## What It Does
 
 Takes a raw video and produces multiple professionally edited versions with:
